@@ -9,7 +9,7 @@ Host your webpage on either GitHub Pages, RPubs, or NeoCities.
 Your webpage must contain the date that you created the document, and it must contain a map created with Leaflet. We would 
 love to see you show off your creativity!
 
-[Here's] (https://seankross.neocities.org/week2.html) an extremely minimal passing example, but we hope your submission is much cooler!
+[Here's](https://seankross.neocities.org/week2.html) an extremely minimal passing example, but we hope your submission is much cooler!
 
 ## Assignment 2
 
@@ -20,7 +20,7 @@ Host your webpage on either GitHub Pages, RPubs, or NeoCities.
 Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly. We would 
 love to see you show off your creativity!
 
-[Here's] (https://seankross.neocities.org/week3.html) an extremely minimal passing example, but we hope your submission is much cooler!
+[Here's](https://seankross.neocities.org/week3.html) an extremely minimal passing example, but we hope your submission is much cooler!
 
 ## Assignment 3
 
